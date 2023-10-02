@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cemressenyuva@gmail.com**
 
-- ⚡ Fun fact **I'm a Swiftie and I love comedy series (Friends!The Office!)**
+- ⚡ Fun fact **I'm a Swiftie and I love comedy series (Friends!The Office!B99)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
