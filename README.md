@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cemre</h1>
-<h3 align="center">Backend Developer (in progress..)</h3>
+<h1 align="center" style="color: white;">Hi 👋, I'm Cemre</h1>
+<h3 align="center" style="color: white;">Backend Developer (in progress..)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemrecodes&label=Profile%20views&color=0e75b6&style=flat" alt="cemrecodes" /> </p>
 
