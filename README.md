@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cemrecodes" alt="cemrecodes" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently improving myself on backend technologies and **Java Spring Boot**
 
 - 📫 How to reach me **cemressenyuva@gmail.com**
 
